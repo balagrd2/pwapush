@@ -14,8 +14,8 @@
     console.log("Getting fresh data!!!");
   });
 
-  var commitContainer = ['.first', '.second', '.third', '.fourth', '.fifth'];
-  var posData = ['first', 'second', 'third', 'fourth', 'fifth'];
+  var commitContainer = ['.first', '.second', '.third', '.fourth', '.fifth', '.sixth'];
+  var posData = ['first', 'second', 'third', 'fourth', 'fifth', 'sixth'];
 
   // Check that localStorage is both supported and available
   function storageAvailable(type) {
